@@ -9,6 +9,6 @@ Additionally, Udacity ran every image in the WeRateDogs Twitter archive through 
 This project repository includes the following materials:
 - twitter_archive_enhanced.csv &mdash; This is the Twitter archive data from WeRateDogs, which was supplied as a part of the academic materials from the Udacity Data Analysis nanodegree program.
 - image-predictions.tsv &mdash; The tweet image predictions, i.e., what breed of dog (or other object, animal, etc.) is present in each tweet according to a neural network. THis was also supplied by the Udacity Data Analysis nanodegree program.
-- wrangle_act.ipynb &mdash; The jupter notebook documention, where codes, visualizations and narrative texts are created.
-- twritter_archive_master.csv &mdash; This is the CSV file where cleaned dataframes stored.
-- twitter_json.txt &mdash; Store each tweet's entire set of JSON data in the file named tweet_json.txt file, and each tweet's JSON data is written to its own line.
+- wrangle_act.ipynb &mdash; This is the Jupter notebook documention, where code, visualizations and narrative texts were created.
+- twritter_archive_master.csv &mdash; This is the CSV file with the cleaned and supplemented data after activities performed in this project.
+- twitter_json.txt &mdash; Storage of each tweet's entire set of JSON data acquired using the Tweepy API.
